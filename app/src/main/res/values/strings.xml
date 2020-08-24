@@ -6,4 +6,13 @@
     <string name="contact_menu">Contact</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+    <string name="bio">Nichanun Ploycharoen
+    \n\nNun
+    \n\nI’m 20 years old.
+    \n\nMy birthday is the 6th of January 2000.
+    \n\n
+    \n\nMy motto
+    \n\n"The future depends on what we do in the present"</string>
+    <string name="aboutme">About Me</string>
+
 </resources>
