@@ -8,6 +8,7 @@ import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.core.view.GravityCompat
 import androidx.databinding.DataBindingUtil
 import androidx.drawerlayout.widget.DrawerLayout
+import com.example.firstapp.about.AboutFragment
 import com.example.firstapp.databinding.ActivityMainBinding
 import com.google.android.material.navigation.NavigationView
 
